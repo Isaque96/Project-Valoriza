@@ -19,7 +19,7 @@
 
 
 ### Anotações das aulas
-/*
+/**
 * GET => Buscar uma informação
 * POST => Inserir(Criar) uma informação
 * PUT => Alterar uma informação
@@ -27,9 +27,13 @@
 * PATCH => Alterar uma informação específica
 */
 
-/*
+/**
 * Tipos de parâmetros
 * Routes Params => http://localhost:3000/produtos/78347583458345
 * Query Params => http://localhost:3000/produtos?name=teclado&description=tecladobom&
 * Body Params => { "name": "teclado", "description": "teclado bom" }
 */
+
+/**
+ * Server -> Routes -> Controller -> Service (throw new Error)
+ */
