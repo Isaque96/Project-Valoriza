@@ -37,3 +37,24 @@
 /**
  * Server -> Routes -> Controller -> Service (throw new Error)
  */
+
+/**
+* Verificar se email existe
+*
+* Verificar se senha está correta
+*
+* Gerar o Token
+*/
+
+/**await queryRunner.createForeignKey(
+*        //     "compliments",
+*        //     new TableForeignKey({
+*        //         name: "FKUserSenderCompliments",
+*        //                 referencedTableName: "users",
+*        //                 referencedColumnNames: ["id"],
+*        //                 columnNames:["user-sender"],
+*        //                 onDelete: "SET NULL",
+*        //                 onUpdate: "SET NULL"
+*        //     })
+*        // )
+*/
