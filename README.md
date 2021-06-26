@@ -58,3 +58,13 @@
 *        //     })
 *        // )
 */
+
+/**
+     * Receber o nosso Token
+     * 
+     * Validar se token está preenchido
+     * 
+     * Validar se Token é válido
+     * 
+     * Recuperar Informações do Usuário
+     */
