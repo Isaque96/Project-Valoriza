@@ -47,16 +47,14 @@
 */
 
 /**await queryRunner.createForeignKey(
-*        //     "compliments",
-*        //     new TableForeignKey({
-*        //         name: "FKUserSenderCompliments",
-*        //                 referencedTableName: "users",
-*        //                 referencedColumnNames: ["id"],
-*        //                 columnNames:["user-sender"],
-*        //                 onDelete: "SET NULL",
-*        //                 onUpdate: "SET NULL"
-*        //     })
-*        // )
+* "compliments",
+* new TableForeignKey({
+*     name: "FKUserSenderCompliments",
+*             referencedTableName: "users",
+*             referencedColumnNames: ["id"],
+*             columnNames:["user-sender"],
+*             onDelete: "SET NULL",
+*             onUpdate: "SET NULL"*
 */
 
 /**
